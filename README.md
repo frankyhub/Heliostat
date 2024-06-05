@@ -3,4 +3,4 @@ Looking for the sun
 
 ![Bild](pic/Heliostat.png)
 
-![Bild](pic/Heliostat2t.png)
+![Bild](pic/Heliosta2t.png)
