@@ -13,7 +13,7 @@
 # Heliostat
 Looking for the sun
 
-<img src="pic/Heliostatpng" width="500"> 
+<img src="pic/Heliostat.png" width="500"> 
 <br> <br>
 
 <img src="pic/Heliostat2.png" width="500"> 
