@@ -10,7 +10,7 @@
 
 </div>
 
-# Heliostat
+
 Looking for the sun
 
 <img src="pic/Heliostat.png" width="500"> 
